@@ -21,6 +21,8 @@ The designs were created to the following widths:
 - Slightly transparent white (main paragraph): hsla(0, 0%, 100%, 0.75)
 - Slightly transparent white (stat headings): hsla(0, 0%, 100%, 0.6)
 
+- Background: 	hsl(233, 47%, 7%);
+
 ## Typography
 
 ### Body Copy
